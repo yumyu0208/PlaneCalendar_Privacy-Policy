@@ -2,15 +2,8 @@
 <html lang="ja">
  <head>
  <meta charset="utf-8">
- <title>RankPlate プライバシーポリシー</title>
- <meta name="description" content="Plane Calendar Privacy Policy">
- <meta name="viewport" content="width=device-width, initial-scale=1.0">
- <link rel="stylesheet" href="style.css">
- <!-- [if lt IE 9] -->
- <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
- <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
- <!-- [endif] -->
- <script src="main.js"></script>
+ <title>Pure Calendar プライバシーポリシー</title>
+
  </head>
  <body>
 
