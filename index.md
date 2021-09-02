@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="ja">
- <head>
- <meta charset="utf-8">
- <title>Pure Calendar プライバシーポリシー</title>
-
- </head>
- <body>
-
  <!----- main ----->
  <article>
  <h1>プライバシーポリシー</h1>
