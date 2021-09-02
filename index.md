@@ -1,32 +1,35 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="ja">
+ <head>
+ <meta charset="utf-8">
+ <title>RankPlate プライバシーポリシー</title>
+ <meta name="description" content="Plane Calendar Privacy Policy">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <link rel="stylesheet" href="style.css">
+ <!-- [if lt IE 9] -->
+ <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+ <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+ <!-- [endif] -->
+ <script src="main.js"></script>
+ </head>
+ <body>
 
-You can use the [editor on GitHub](https://github.com/yumyu0208/PlaneCalendar_Privacy-Policy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ <!----- main ----->
+ <article>
+ <h1>プライバシーポリシー</h1>
+ <section>
+ <h3>アプリの情報は他人に知られることはありません</h3>
+ <p>お客様のランキングの情報は、端末内のストレージに保存され、開発者、および第三者に知られる事はありません。</p>
+ </section>
+ <section>
+ <h3>アプリは広告配信にAdMob(Google社)を使用しております</h3>
+ <p>AdMobは広告配信のためにお客様の情報を取得する場合があります。取得する情報や利用目的、個人情報の保護などについては、以下のGoogleプライバシーポリシーの広告に関する部分をお読みください。</p>
+ <a href= "https://policies.google.com/technologies/ads?hl=ja" >広告 - ポリシーと規約 - Google</a>
+ </section>
+ </article>
+ <!----- /main ----->
+ </body>
+</html>
 
 ### Jekyll Themes
 
